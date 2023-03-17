@@ -17,6 +17,12 @@ fun main() {
     alamat = "yogyakarta"
     var umur = 18
 
+    println(namaLengkap)
+    println(alamat)
+    println(umur)
 
+    var namaLengkap2 = "Adhit"
+    namaLengkap2 = "Yustinus Adhitama"
+    println(namaLengkap2)
 }
 
